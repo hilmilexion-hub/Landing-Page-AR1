@@ -1,0 +1,6 @@
+{
+  "name": "Aura Reader",
+  "description": "Landing page profesional Aura Reader oleh Yayasan Nur Qolbu untuk pembacaan aura berbasis AI dengan pendekatan spiritual, emosional, dan psikologis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
